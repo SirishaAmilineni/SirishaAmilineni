@@ -14,6 +14,10 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/amilinenisirisha/) for 
 
 - 🎖 Turbonomic 8 Cloud ARM Master
 
+- 🎖 Harshicorp Certified: Terraform Associate
+
+- 🎖 Microsoft Certified: Azure AI Fundamentals (AI-900)
+
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-docs/logo_powershell.svg" alt="powershell" title="powershell" width="40" height="40"/></p>
 
